@@ -33,3 +33,9 @@ gazebo world/my_world.sdf
 
 - The world plugin is printing `Welcome to Remon's World`.
 - The world contains a small appartment with two instance of a robotic car model.
+
+## Screenshots
+
+![Bulding screenshot](imgs/building.jpg)
+
+![Robotic Car](imgs/robotic_car.jpg)
